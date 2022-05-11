@@ -1,0 +1,62 @@
+/* Body */
+
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+  padding: 10em 15em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header */
+.header {
+  margin: 3em auto 1em;
+  position: relative;
+  background-image: linear-gradient(180deg, rgba(253, 253, 253, 0) 30%, rgba(55, 56, 56, 0.718) 100%), url('../img/leaseplan.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  height: 650px;
+}
+
+.header__title {
+  position: absolute;
+  top: -150px;
+  left: 20px;
+  width: 400px;
+}
+
+.header__title-img {
+  width: 100%;
+}
+
+.header__container {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  text-align: right;
+  margin: 20px 50px;
+  width: 60%;
+}
+
+.header__container-content {
+  
+  font-weight: bold;
+  font-size: 3.2em;
+  color: #fff;
+}
+
+.header__container-button {
+  margin-top: 20px;
+  padding: 1em 2em;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #fff;
+  background-color: #F06400;
+  border: none;
+  border-radius: 2em;
+}
+
+.header__container-button-span {
+  margin-left: 0.8em;
+}
+
