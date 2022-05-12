@@ -1,3 +1,3 @@
 # Manageo_html
 
-HTML integration from .psd file
+HTML/CSS integration from .psd file
